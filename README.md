@@ -8,15 +8,13 @@
 
 ## 📌 About Me  
 🔹 AI student at **Blida University**  
-🔹 Passionate about **Machine Learning, Big Data, and Distributed Systems**  
-🔹 Working with **Hadoop, Spark, and Federated Learning**  
+🔹 Passionate about **Machine Learning, Deep Learning**  
 🔹 Exploring **Probabilistic Models and Reinforcement Learning**  
 
 ## 🚀 Technologies  
 - **Programming**: Python, Java, SQL  
 - **AI & ML**: TensorFlow, PyTorch, Scikit-Learn  
-- **Big Data**: Hadoop, Spark, NoSQL  
-- **DevOps**: Docker, Linux  
+
 
 ## 📫 Contact Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boukader-imad-eddine-b6336920a/)  
