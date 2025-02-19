@@ -1,8 +1,4 @@
 
-<h1 align="center">👋 Hello</h1>
-
-
-
 ## 📌 About Me  
 🔹 AI student at **Blida University**  
 🔹 Passionate about **Machine Learning, Deep Learning**  
