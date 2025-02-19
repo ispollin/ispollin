@@ -2,7 +2,7 @@
 ## 📌 About Me  
 🔹 AI student at **Blida University**  
 🔹 Passionate about **Machine Learning, Deep Learning and Reinforcement Learning**  
-🔹 Exploring **Probabilistic Models  **  
+🔹 Exploring **Probabilistic Models**  
 
 ## 🚀 Technologies  
 - **Programming**: Python, Java, SQL  
