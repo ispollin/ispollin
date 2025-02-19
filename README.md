@@ -2,9 +2,7 @@
 
 <h1 align="center">👋 Hello, I'm Islam</h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ispollin&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
+
 
 ## 📌 About Me  
 🔹 AI student at **Blida University**  
@@ -21,3 +19,6 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ispolin)  
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ispollin&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
