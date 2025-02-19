@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hello, I'm Islam</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ispollin&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 ## 📌 About Me  
